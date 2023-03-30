@@ -4,4 +4,4 @@ This repository containes coding guidelines for Frontent (JavaScript) developers
 
 ## Colaboration
 
-The content of this repository is a result of teams cooperation and it wouldn't be the same form without other people. As it's result working together, I cannot imagine that the further developing woudld be any different. What follow next, as an open source paradigm, I would love to hear the voice of you and an active cooperation from any of us. Thank you!
+The content of this repository is a result of teams cooperation and it wouldn't be the same form without other developers. As it is result working together, I cannot imagine that the further developing would exist without the community. Following an open source principles, I would love to hear the voice of you and expecting an active cooperation. Thank you!
